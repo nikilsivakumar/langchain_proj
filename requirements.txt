@@ -20,3 +20,4 @@ wikipedia
 arxiv
 langchainhub
 langchain-text-splitters
+sentence_transformers
